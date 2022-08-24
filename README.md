@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @spacemanhful0108
+- 👋 Hi, I’m Hagen Fulford 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and MERN Full Stack @ Coding DOJO
+- 🌱 I’m currently learning taking a deeper dive into Python and MySQL
 - 💞️ I’m looking to collaborate on ... anthing to help me learn!
 - 📫 How to reach me ... hagen.fulford@gmail.com
 
